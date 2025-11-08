@@ -10,7 +10,9 @@ I'm Ellegamasd, and I enjoy building things with code!
 | :--- | :--- |
 | [![ellegamasd's GitHub stats](https://github-readme-stats.vercel.app/api?username=ellegamasd&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ellegamasd&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats) |
 
-[![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=ellegamasd&theme=dark)](https://git.io/streak-stats)
+### My Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ellegamasd&theme=dark)](https://git.io/streak-stats)
 
 
 ### About Me
