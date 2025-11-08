@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Ellegamasd, and I enjoy building things with code!
+I'm Senura Dissanjana Ellegama, and I enjoy building things with code!
 
 ---
 
